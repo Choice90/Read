@@ -1,0 +1,5 @@
+- pipeline: id_yml
+  definition_source: REMOTE
+  remote_path: .travis.yml
+  remote_ref: main
+  remote_project_name: read
