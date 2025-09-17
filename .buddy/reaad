@@ -1,0 +1,3 @@
+- pipeline: id_yml
+  refs:
+  - refs/heads/*
